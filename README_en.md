@@ -90,8 +90,6 @@ invitation code：90afc6c26ec843c2
 
 - Python 3.x
 - PyQt6 GUI framework
-- Mido MIDI processing library
-- pynput input control library
 
 ## Notes
 
@@ -106,5 +104,7 @@ https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 ## Technical Support
 - DeepSeek-V3.2
 - tongyi.com
+- Mido MIDI processing library
+- pynput input control library
 
 If you encounter usage issues, please contact technical support or check the relevant documentation.
