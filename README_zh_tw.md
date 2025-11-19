@@ -1,4 +1,4 @@
-# MagicPiano 魔琴
+# ![主界面](https://github.com/WangYang68/MagicPiano/blob/main/icon.ico "ico")MagicPiano 魔琴
 
 MagicPiano（魔琴）是一款功能豐富的MIDI音樂播放器，專為遊戲音樂演奏設計。它支援多種遊戲的按鍵模式，能夠將MIDI音樂轉換為遊戲中的鍵盤按鍵，實現自動演奏。
 
@@ -98,9 +98,6 @@ MagicPiano（魔琴）是一款功能豐富的MIDI音樂播放器，專為遊戲
 2. 部分功能需要網路連接（如雲音樂、使用者登入等）
 3. 如遇到程式異常，可嘗試重啟程式
 4. 建議定期檢查更新以獲取最新功能和修復
-
-## 版本歷史
-https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 
 ## 技術支援
 
