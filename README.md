@@ -90,8 +90,6 @@ MagicPiano（魔琴）是一款功能丰富的MIDI音乐播放器，专为游戏
 
 - Python 3.x
 - PyQt6 图形界面框架
-- Mido MIDI处理库
-- pynput 输入控制库
 
 ## 注意事项
 
@@ -106,5 +104,7 @@ https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 ## 技术支持
 - DeepSeek-V3.2
 - 通义千问
+- Mido MIDI处理库
+- pynput 输入控制库
 
 如遇到使用问题，请联系技术支持或查看相关文档。
