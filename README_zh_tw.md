@@ -2,7 +2,11 @@
 
 MagicPiano（魔琴）是一款功能豐富的MIDI音樂播放器，專為遊戲音樂演奏設計。它支援多種遊戲的按鍵模式，能夠將MIDI音樂轉換為遊戲中的鍵盤按鍵，實現自動演奏。
 
-註冊邀請碼：90afc6c26ec843c2
+## 註冊邀請碼：90afc6c26ec843c2
+
+## 操作教程： https://b23.tv/eiccHXB
+
+## 版本曆史：https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 
 ## 功能特點
 
