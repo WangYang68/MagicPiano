@@ -8,6 +8,8 @@ MagicPiano is a feature-rich MIDI music player designed specifically for game mu
 
 ## log:https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 
+![主界面](https://github.com/WangYang68/MagicPiano/blob/main/MagicPiano_en.png "MagicPiano_zh-cn")
+
 ## Features
 
 ### Multi-Game Support
@@ -90,11 +92,6 @@ MagicPiano is a feature-rich MIDI music player designed specifically for game mu
 3. **Key Signature Selection**: Click the key signature button to select an appropriate key for transposition
 4. **Scheduled Playback**: Set a scheduled playback time, playback will start automatically at that time
 
-## Development Technology
-
-- Python 3.x
-- PyQt6 GUI framework
-
 ## Notes
 
 1. The program needs to be run with administrator privileges to work properly
@@ -106,9 +103,5 @@ MagicPiano is a feature-rich MIDI music player designed specifically for game mu
 https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 
 ## Technical Support
-- DeepSeek-V3.2
-- tongyi.com
-- Mido MIDI processing library
-- pynput input control library
 
 If you encounter usage issues, please contact technical support or check the relevant documentation.
