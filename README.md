@@ -99,7 +99,7 @@ MagicPiano（魔琴）是一款功能丰富的MIDI音乐播放器，专为游戏
 4. 建议定期检查更新以获取最新功能和修复
 
 ## 版本历史
-查看 https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG 了解详细更新日志。
+https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 
 ## 技术支持
 - DeepSeek-V3.2
