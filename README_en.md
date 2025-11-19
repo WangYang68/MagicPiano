@@ -2,6 +2,8 @@
 
 MagicPiano is a feature-rich MIDI music player designed specifically for game music performance. It supports various game key modes and can convert MIDI music into keyboard keys in games to achieve automatic playing.
 
+invitation code：90afc6c26ec843c2
+
 ## Features
 
 ### Multi-Game Support
