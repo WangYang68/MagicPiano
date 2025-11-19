@@ -8,6 +8,8 @@ MagicPiano（魔琴）是一款功能豐富的MIDI音樂播放器，專為遊戲
 
 ## 版本曆史：https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 
+![主界面](https://github.com/WangYang68/MagicPiano/blob/main/MagicPiano_zh-tw.png "MagicPiano_zh-tw")
+
 ## 功能特點
 
 ### 多種遊戲支援
@@ -90,11 +92,6 @@ MagicPiano（魔琴）是一款功能豐富的MIDI音樂播放器，專為遊戲
 3. **調號選擇**：點擊調號按鈕選擇合適的調號進行轉調
 4. **定時播放**：設定定時播放時間，到時間自動開始播放
 
-## 開發技術
-
-- Python 3.x
-- PyQt6 圖形介面框架
-
 ## 注意事項
 
 1. 程式需要以管理員權限執行才能正常工作
@@ -106,9 +103,5 @@ MagicPiano（魔琴）是一款功能豐富的MIDI音樂播放器，專為遊戲
 https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 
 ## 技術支援
-- DeepSeek-V3.2
-- 通义千问
-- Mido MIDI處理庫
-- pynput 輸入控制庫
 
 如遇到使用問題，請聯繫技術支援或查看相關文件。
