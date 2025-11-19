@@ -1,4 +1,5 @@
-# MagicPiano 魔琴icon.ico
+# MagicPiano 魔琴
+MagicPiano/icon.ico
 
 MagicPiano（魔琴）是一款功能丰富的MIDI音乐播放器，专为游戏音乐演奏设计。它支持多种游戏的按键模式，能够将MIDI音乐转换为游戏中的键盘按键，实现自动演奏。
 
