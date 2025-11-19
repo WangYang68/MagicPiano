@@ -1,4 +1,4 @@
-# MagicPiano
+# ![主界面](https://github.com/WangYang68/MagicPiano/blob/main/icon.ico "ico")MagicPiano 魔琴
 
 MagicPiano is a feature-rich MIDI music player designed specifically for game music performance. It supports various game key modes and can convert MIDI music into keyboard keys in games to achieve automatic playing.
 
@@ -98,9 +98,6 @@ MagicPiano is a feature-rich MIDI music player designed specifically for game mu
 2. Some features require internet connection (such as cloud music, user login, etc.)
 3. If you encounter program exceptions, try restarting the program
 4. It is recommended to check for updates regularly to get the latest features and fixes
-
-## Version History
-https://docs.qq.com/doc/DUFN1bG1JTGV2a2xG
 
 ## Technical Support
 
