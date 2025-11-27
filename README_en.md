@@ -26,7 +26,8 @@ MagicPiano is a feature-rich MIDI music player designed specifically for game mu
   - Sky 15-key
   - OnceHuman Piano
   - Roblox piano
-  - Sizhu Yayun (Traditional Chinese Music)
+  - GracefulMelody (Where Winds Meet,Unlocking of musical instruments on the map,)
+    If the position is incorrect, you can use the shortcut keys to adjust the speed: for example, if it's too slow, increase the speed to 1.1x, and then return it to 1.0x once it's normal.
 
 ### Music Management
 - Local music import and management
